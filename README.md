@@ -1,3 +1,9 @@
 	在myvipt\models\下解压ViPT_deep_rgbt.pth
 	在myvipt\pretrained\解压OSTrack_ep0300.pth.tar
 	在myvipt\RGBT_workspace\results\RGBT234解压deep_rgbt.zip
+	在eva\deep_rgbt下解压deep_rgbt.zip。在eva\extra下解压extra.zip
+	其中：ViPT_deep_rgbt.pth为训练好的模型
+	其中：OSTrack_ep0300.pth.tar为预训练权重
+	其中：deep_rgbt.zip为提取好的RGBT234数据集正确框位置
+	其中：extra.zip为提取好的模型预测结果，用于与deep_rgbt.zip做比对
+	其中：myeva.py与static_des为绘图评估脚本，应当可以直接运行（解压deep_rgbt.zip与extra.zip后）
