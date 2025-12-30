@@ -8,3 +8,4 @@
 	其中：extra.zip为提取好的模型预测结果，用于与deep_rgbt.zip做比对
 	其中：myeva.py与static_des为绘图评估脚本，应当可以直接运行（解压deep_rgbt.zip与extra.zip后）
 	生成结果在eva/statistics_visualization与eva/tracking_evaluation_results中
+	模型文件: https://pan.baidu.com/s/1PwrqmJ0t7vm2Vu87ANsy_g?pwd=hsa4 提取码: hsa4
