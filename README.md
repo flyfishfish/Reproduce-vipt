@@ -7,3 +7,4 @@
 	其中：deep_rgbt.zip为提取好的RGBT234数据集正确框位置
 	其中：extra.zip为提取好的模型预测结果，用于与deep_rgbt.zip做比对
 	其中：myeva.py与static_des为绘图评估脚本，应当可以直接运行（解压deep_rgbt.zip与extra.zip后）
+	生成结果在eva/statistics_visualization与eva/tracking_evaluation_results中
