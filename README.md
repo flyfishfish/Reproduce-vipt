@@ -1,3 +1,4 @@
+	解压myvipt
 	在myvipt\models\下放置ViPT_deep_rgbt.pth
 	在myvipt\pretrained\放置OSTrack_ep0300.pth.tar
 	在myvipt\RGBT_workspace\results\RGBT234解压deep_rgbt.zip
